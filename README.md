@@ -1,1 +1,2 @@
 # ESSE É O REPOSITÓRIO DO MINICURSO.
+# Bem vindo!!!
